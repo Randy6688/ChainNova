@@ -2,15 +2,18 @@
 ChainNova is a lightweight smart contract project deployed on OPN Testnet using Remix IDE and MetaMask.
 
 Overview
+
 ChainNova demonstrates smart contract deployment and interaction on OPN Testnet.
 
 Features
+
 .Smart contract deployment
 .On-chain state management
 .EVM compatibility
 .Solidity-based development
 
 Technology Stack
+
 .Solidity
 .Remix IDE
 .MetaMask
